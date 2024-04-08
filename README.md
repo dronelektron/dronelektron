@@ -1,6 +1,11 @@
 ### Hello there :hand:
 
-I am a plugin developer for SourceMod
+I'm an unemployed programmer who likes to create plugins and maps for [Day of Defeat: Source](https://store.steampowered.com/app/300/Day_of_Defeat_Source)
+
+* [Plugins](https://github.com/dronelektron?tab=repositories&q=&type=&language=sourcepawn)
+* [Maps](https://gamebanana.com/members/submissions/mods/1755814)
+
+### Contacts
 
 * Telegram: [@dron_elektron](https://t.me/dron_elektron)
 * Discord: [dron_elektron](https://discordapp.com/users/230291697869914112)
