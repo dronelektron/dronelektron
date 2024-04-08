@@ -5,6 +5,10 @@ I'm an unemployed programmer who likes to create plugins and maps for [Day of De
 * [Plugins](https://github.com/dronelektron?tab=repositories&q=&type=&language=sourcepawn)
 * [Maps](https://gamebanana.com/members/submissions/mods/1755814)
 
+### Skills
+
+[![Skills](https://skillicons.dev/icons?i=idea,vscode,git,mysql,sqlite,c,cpp,java,kotlin,py,lua)](https://skillicons.dev)
+
 ### Contacts
 
 * Telegram: [@dron_elektron](https://t.me/dron_elektron)
